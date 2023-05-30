@@ -19,3 +19,6 @@ Import-Module -Name Evergreen
 Get-EvergreenApp 7zip
 Get-EvergreenApp Naps2
 Get-EvergreenApp NotepadPlusPlus
+
+Get-EvergreenApp MicrosoftWvdBootloader
+Get-EvergreenApp MicrosoftWvdInfraAgent
